@@ -1,0 +1,23 @@
+.clear{
+	clear:both;
+}
+
+.container .btn{
+	margin-top: 20px;
+}
+
+#number-table{
+	margin: 25px 0;
+}
+
+#output1, #output2 ,#output3, #output4 , #output5 ,#output6{
+	display: none;
+}
+
+.output{
+	background: #ccc;
+	padding: 10px;
+	margin: 20px 0;
+	text-align: center;
+	overflow-x: scroll;
+}
