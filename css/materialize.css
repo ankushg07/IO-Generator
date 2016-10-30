@@ -1869,7 +1869,7 @@ button[disabled], html input[disabled] {
  */
 button::-moz-focus-inner, input::-moz-focus-inner {
   border: 0;
-  padding: 0; }
+  padding: 1px; }
 
 /**
  * Address Firefox 4+ setting `line-height` on `input` using `!important` in
